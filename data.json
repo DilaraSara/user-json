@@ -1,4 +1,12 @@
-{
-  "username": "Dilara",
-  "email": "dilara@example.com"
-}
+[
+  {
+    "name": "Ali Murat Çevik",
+    "email": "alimurat@yazilimkaravani.net",
+    "password": "123456"
+  },
+  {
+    "name": "Dilara",
+    "email": "dilara@example.com",
+    "password": "password123"
+  }
+]
